@@ -27,7 +27,7 @@
                 </nav>
             </div>
             <!--barra-->
-            <h1>Actividades De Ecoturismo En Cundinamarca (AMBIENTE DE PRODUCCION DEL PROYECTO)</h1>
+            <h1>Actividades De Ecoturismo En Cundinamarca (AMBIENTE DE PRODUCCION PROYECTO)</h1>
         </div>
         <!--contenedor-->
     </header>
